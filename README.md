@@ -1,0 +1,1 @@
+This repo contains the html elements for two card design and four grid design using the bootstrap framework. the first card is a 3 column card and the second card is a 4 column card they are all responsive for the various screens. the various grids are also responsive from basic grid layout to the holy grail layout grid.
